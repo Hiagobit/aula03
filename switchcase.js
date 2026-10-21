@@ -26,7 +26,7 @@ switch (letraDigitada) {
 
 var escolhaMenu = "2"
 
-switch (letraDigitada) {
+switch (escolhaMenu) {
     case 1: // possibilidades de acertos
         console.log("entrar");
         break; //parar 

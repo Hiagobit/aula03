@@ -2,7 +2,7 @@
 // A E I O U
 
 var letraDigitada = "U"
-case
+// case
 
 if (letraDigitada == "A"){
     console.log("A letra digitada é uma vogal");
@@ -38,7 +38,8 @@ var escolha = 3
 if ( escolha == 1) {
     console.log("Entrar");
     
-}else if {
-
+}else if (escolha == 2) {
+    console.log("Sair");
+    
 }
 
